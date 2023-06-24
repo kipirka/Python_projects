@@ -18,3 +18,5 @@ Churn.ipynb  - проект классификации оттока клиент
 
 Oil.ipynb - проект по выбору региона для разработки нового нефтяного месторождения
 
+Hotels.ipynb - project that evaluates a new feature adoption by a hotel.
+
