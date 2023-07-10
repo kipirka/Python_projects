@@ -1,5 +1,5 @@
 # jupiter_notebook_projects
-Здесь представлены мои проекты в рамках курса Data Scientist Specialist в Yandex Practicum.
+Here is a list of my projects. The majority were done for Yandex.Practicum DS+ course.
 
 Scoring.ipynb  - это проект для спринта предобработки данных. В нём я оценивала вероятность задержки выплаты по кредитам. 
 Я дополнила проект логистическими регрессиями. 
