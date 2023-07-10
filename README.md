@@ -20,3 +20,4 @@ Oil.ipynb - проект по выбору региона для разрабо�
 
 Hotels.ipynb - project that evaluates a new feature adoption by a hotel.
 
+Lab_1_summarize_dialogue - Lab work for Generative AI course (prompt engineering)
